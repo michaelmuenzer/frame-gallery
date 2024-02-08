@@ -1,4 +1,4 @@
-This repo is heavily inspired by and gives credit to [a-frame-in-100-lines by Zizzamia](https://github.com/Zizzamia/a-frame-in-100-lines)
+Based on tutorial from [Pinata](https://www.youtube.com/watch?v=wUt5NjXHSO4&t=8s)
 
 ## Getting Started
 
